@@ -1,5 +1,5 @@
 ## link of our project that is published in a magazine for computer vision :
-<a href="https://perso.usthb.dz/~slarabi/VisualComputingMagazine.html">
+https://perso.usthb.dz/~slarabi/VisualComputingMagazine.html
   
 # USTHB_University-Master-Schedules-visualization
 The aim of this project is to visualize the activities of the Computer Science Faculty on the USTHB campus by creating an interactive map of the university. This map will display information about the utilization of various rooms and facilities by computer science students.
