@@ -6,7 +6,6 @@ The aim of this project is to visualize the activities of the Computer Science F
 With this project, users will be able to interactively explore the activities of the Computer Science Faculty on the USTHB campus. They can view room occupancy, instructor schedules, and events at various times and dates, providing a valuable resource for students, staff, and administrators to plan their activities
 effectively.
 
-
 ## Some images
 <img src="./display_image.jpg" alt="usthb map" title="usthb map">
 <img src="./img2.jpg" alt="schedule day&time" title="schedule day&time">
